@@ -1,0 +1,28 @@
+{
+  "name": "addonstrap",
+  "version": "1.0.0",
+  "description": "Bootstrap Additional CSS Goddies",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CSS-Tianguis/addon-strap.git"
+  },
+  "keywords": [
+    "Bootstrap"
+  ],
+  "author": "CSS-Tianguis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CSS-Tianguis/addon-strap/issues"
+  },
+  "homepage": "https://github.com/CSS-Tianguis/addon-strap#readme",
+  "devDependencies": {
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.9.4"
+  }
+}
