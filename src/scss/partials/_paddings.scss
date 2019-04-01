@@ -1,0 +1,48 @@
+.padding-30 {
+    padding: 30px !important;
+}
+
+.padding-top-0 {
+    padding-top: 0 !important;
+}
+
+.padding-top-100 {
+    padding-top: 100px !important;
+}
+
+.padding-top-150 {
+    padding-top: 150px !important;
+}
+
+.padding-left-0 {
+    padding-left: 0 !important;
+}
+
+.padding-right-0 {
+    padding-right: 0 !important;
+}
+
+.padding-bottom-100 {
+    padding-bottom: 100px !important;
+}
+
+@media only screen and (min-width : 768px) {
+    
+    // De abajo para arriba
+
+    .padding-top-md-0  {
+        padding-top: 0;        
+    }
+
+    .padding-left-md-15 {
+        padding-left: 15px;
+    }
+
+    .padding-left-md-0 {
+        padding-left: 0;
+    }
+    .padding-right-md-0 {
+        padding-right: 0;
+    }
+
+}
